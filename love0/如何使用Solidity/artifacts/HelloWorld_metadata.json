@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "greet",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"如何使用Solidity/FirstApp.sol": "HelloWorld"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"如何使用Solidity/FirstApp.sol": {
+			"keccak256": "0x4c7b6954b946c8f9db0b0a0ade30931d5b918c4d3727b39e80cf2f12432e11df",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://84455858f6533f825ccd5bd4d319864ff58df256a75452dd7e8cd8c62a6da99d",
+				"dweb:/ipfs/QmXqYSMchmsy1eWPyqq5d9Y7siamNom5SyPfWVzRJVfSek"
+			]
+		}
+	},
+	"version": 1
+}
