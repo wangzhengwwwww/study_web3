@@ -1,5 +1,9 @@
 # study_web3
 
+npx hardhat
+
+npx hardhat compile
+
 1. 启动本地网络:`npx hardhat node`
 
 2. 新的命令行界面中部署 TodoList 到本地网络
